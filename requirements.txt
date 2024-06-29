@@ -1,0 +1,21 @@
+langchain
+langchain-community
+langchain-core
+openai
+pypdf
+tiktoken
+aiofiles
+fastapi
+uvicorn
+jinja2
+python-multipart
+PyPDF2
+faiss-cpu
+python-dotenv
+sentence-transformers
+google-generativeai
+langchain-google-genai
+huggingface-hub
+transformers
+ipykernel
+-e .
